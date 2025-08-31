@@ -1,0 +1,17 @@
+Time Complexity - Time complexity is a measure of how the running time of an algorithm grows as the size of its input increases.
+
+Big O Notation - Big O notation is a mathematical notation used to describe the upper bound of an algorithm's time complexity. It provides an abstract way to express the worst-case scenario of an algorithm's growth rate.
+
+Rules of Big O notation - Three rules to calculate Big O Notation - 1. Worst Case scenario 
+                                                                    2. Avoid Constants
+                                                                    3. Avoid Lower Values
+
+
+Types of Notations-     Big Oh Notation             Theta Q             Omega
+                        (Worst Case)                Average Case        (Best Case)
+                        (Upper Bound)                                   (Lower Bound)
+
+
+Space Complexity - Space complexity is a measure of the amount of memory an algorithm uses as its input size increases.
+auxilary space - Auxiliary space is the extra space or temporary space used by an algorithm, excluding the space taken by the input data.
+input space - Input space is the space taken by the input data itself.
