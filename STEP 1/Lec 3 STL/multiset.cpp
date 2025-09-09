@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){ 
 
-    multiset<int> ms;
+    multiset<int> ms;  // Multi set are sorted and can have duplicate values
     ms.insert(1); 
     ms.insert(1); 
     ms.insert(1); 
